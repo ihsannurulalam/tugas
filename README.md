@@ -53,8 +53,8 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
             
 ## Hasil Program
 1. Proses/srcip coding 
-[gambar1](gmabar/gambar1.png)
+![gambar1](gmabar/gambar1.png)
 2. Hasil/output program 
-[gambar2](gambar/gambar2.png)
+![gambar2](gambar/gambar2.png)
 
 ### Terimakasih
