@@ -45,7 +45,7 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
             del data[nama]
         else:
             print("Data {0} tidak ada".format(nama))
-        # Untuk Mencari data
+    * Untuk Mencari data
     elif g.lower() == "c":
         print("Cari Data Nilai Mahasiswa")
         nama = input(" Masukan Nama: ")
